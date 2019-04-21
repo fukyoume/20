@@ -4994,9 +4994,9 @@ def bot(op):
                                 
                         elif cmd == "!cek" or cmd == "cek":
                             if msg._from in admin:
-                                try:k1.inviteIntoGroup(to, ["ube7e5b15dbea0cc92f2067c04d25b1fc"]);has = "OK"
+                                try:k1.inviteIntoGroup(to, ["u341f7f5275f7d1cede62c1914211ad4b"]);has = "OK"
                                 except:has = "NOT"
-                                try:k1.kickoutFromGroup(to, ["ube7e5b15dbea0cc92f2067c04d25b1fc"]);has1 = "OK"
+                                try:k1.kickoutFromGroup(to, ["u341f7f5275f7d1cede62c1914211ad4b"]);has1 = "OK"
                                 except:has1 = "NOT"
                                 if has == "OK":sil = "ok"
                                 else:sil = "no"
@@ -5004,9 +5004,9 @@ def bot(op):
                                 else:sil1 = "no"
                                 time.sleep(0.006)
                                 k1.sendReplyMessage(msg_id, to, "STATUS KICK OUT\nKICK : {} \nINVITE : {}".format(sil1,sil))
-                                try:k2.inviteIntoGroup(to, ["u341f7f5275f7d1cede62c1914211ad4b"]);has = "OK"
+                                try:k2.inviteIntoGroup(to, ["u3f3acb2be414b688b55a4f9241e7568d"]);has = "OK"
                                 except:has = "NOT"
-                                try:k2.kickoutFromGroup(to, ["u341f7f5275f7d1cede62c1914211ad4b"]);has1 = "OK"
+                                try:k2.kickoutFromGroup(to, ["u3f3acb2be414b688b55a4f9241e7568d"]);has1 = "OK"
                                 except:has1 = "NOT"
                                 if has == "OK":sil = "ok"
                                 else:sil = "no"
@@ -5014,9 +5014,9 @@ def bot(op):
                                 else:sil1 = "no"
                                 time.sleep(0.006)
                                 k2.sendReplyMessage(msg_id, to, "STATUS KICK OUT\nKICK : {} \nINVITE : {}".format(sil1,sil))
-                                try:k3.inviteIntoGroup(to, ["u3f3acb2be414b688b55a4f9241e7568d"]);has = "OK"
+                                try:k3.inviteIntoGroup(to, ["ue12476df736c3465daa1bc651bd71092"]);has = "OK"
                                 except:has = "NOT"
-                                try:k3.kickoutFromGroup(to, ["u3f3acb2be414b688b55a4f9241e7568d"]);has1 = "OK"
+                                try:k3.kickoutFromGroup(to, ["ue12476df736c3465daa1bc651bd71092"]);has1 = "OK"
                                 except:has1 = "NOT"
                                 if has == "OK":sil = "ok"
                                 else:sil = "no"
@@ -5024,9 +5024,9 @@ def bot(op):
                                 else:sil1 = "no"
                                 time.sleep(0.006)
                                 k3.sendReplyMessage(msg_id, to, "STATUS KICK OUT\nKICK : {} \nINVITE : {}".format(sil1,sil))
-                                try:k4.inviteIntoGroup(to, ["ue12476df736c3465daa1bc651bd71092"]);has = "OK"
+                                try:k4.inviteIntoGroup(to, ["u03c50a8d4fc951e5d2c5085f0b85efed"]);has = "OK"
                                 except:has = "NOT"
-                                try:k4.kickoutFromGroup(to, ["ue12476df736c3465daa1bc651bd71092"]);has1 = "OK"
+                                try:k4.kickoutFromGroup(to, ["u03c50a8d4fc951e5d2c5085f0b85efed"]);has1 = "OK"
                                 except:has1 = "NOT"
                                 if has == "OK":sil = "ok"
                                 else:sil = "no"
@@ -5034,9 +5034,9 @@ def bot(op):
                                 else:sil1 = "no"
                                 time.sleep(0.006)
                                 k4.sendReplyMessage(msg_id, to,"STATUS KICK OUT\nKICK : {} \nINVITE : {}".format(sil1,sil))
-                                try:k5.inviteIntoGroup(to, ["u03c50a8d4fc951e5d2c5085f0b85efed"]);has = "OK"
+                                try:k5.inviteIntoGroup(to, ["u7a98af061da7d696332943ca0bb9ecf1"]);has = "OK"
                                 except:has = "NOT"
-                                try:k5.kickoutFromGroup(to, ["u03c50a8d4fc951e5d2c5085f0b85efed"]);has1 = "OK"
+                                try:k5.kickoutFromGroup(to, ["u7a98af061da7d696332943ca0bb9ecf1"]);has1 = "OK"
                                 except:has1 = "NOT"
                                 if has == "OK":sil = "ok"
                                 else:sil = "no"
@@ -5044,9 +5044,9 @@ def bot(op):
                                 else:sil1 = "no"
                                 time.sleep(0.006)
                                 k5.sendReplyMessage(msg_id, to, "STATUS KICK OUT\nKICK : {} \nINVITE : {}".format(sil1,sil))
-                                try:k6.inviteIntoGroup(to, ["u7a98af061da7d696332943ca0bb9ecf1"]);has = "OK"
+                                try:k6.inviteIntoGroup(to, ["uae8fad4e69d0f2a20244fc4f442c1643"]);has = "OK"
                                 except:has = "NOT"
-                                try:k6.kickoutFromGroup(to, ["u7a98af061da7d696332943ca0bb9ecf1"]);has1 = "OK"
+                                try:k6.kickoutFromGroup(to, ["uae8fad4e69d0f2a20244fc4f442c1643"]);has1 = "OK"
                                 except:has1 = "NOT"
                                 if has == "OK":sil = "ok"
                                 else:sil = "no"
@@ -5054,9 +5054,9 @@ def bot(op):
                                 else:sil1 = "no"
                                 time.sleep(0.006)
                                 k6.sendReplyMessage(msg_id, to, "STATUS KICK OUT\nKICK : {} \nINVITE : {}".format(sil1,sil))
-                                try:k7.inviteIntoGroup(to, ["uae8fad4e69d0f2a20244fc4f442c1643"]);has = "OK"
+                                try:k7.inviteIntoGroup(to, ["ua5e4ce16bd6d339fadd867c01c55030c"]);has = "OK"
                                 except:has = "NOT"
-                                try:k7.kickoutFromGroup(to, ["uae8fad4e69d0f2a20244fc4f442c1643"]);has1 = "OK"
+                                try:k7.kickoutFromGroup(to, ["ua5e4ce16bd6d339fadd867c01c55030c"]);has1 = "OK"
                                 except:has1 = "NOT"
                                 if has == "OK":sil = "ok"
                                 else:sil = "no"
@@ -5064,9 +5064,9 @@ def bot(op):
                                 else:sil1 = "no"
                                 time.sleep(0.006)
                                 k7.sendReplyMessage(msg_id, to, "STATUS KICK OUT\nKICK : {} \nINVITE : {}".format(sil1,sil))
-                                try:k8.inviteIntoGroup(to, ["ua5e4ce16bd6d339fadd867c01c55030c"]);has = "OK"
+                                try:k8.inviteIntoGroup(to, ["u476519fe4ef4a83cfd8d120c0b9c9a38"]);has = "OK"
                                 except:has = "NOT"
-                                try:k8.kickoutFromGroup(to, ["ua5e4ce16bd6d339fadd867c01c55030c"]);has1 = "OK"
+                                try:k8.kickoutFromGroup(to, ["u476519fe4ef4a83cfd8d120c0b9c9a38"]);has1 = "OK"
                                 except:has1 = "NOT"
                                 if has == "OK":sil = "ok"
                                 else:sil = "no"
@@ -5074,9 +5074,9 @@ def bot(op):
                                 else:sil1 = "no"
                                 time.sleep(0.006)
                                 k8.sendReplyMessage(msg_id, to, "STATUS KICK OUT\nKICK : {} \nINVITE : {}".format(sil1,sil))
-                                try:k9.inviteIntoGroup(to, ["u476519fe4ef4a83cfd8d120c0b9c9a38"]);has = "OK"
+                                try:k9.inviteIntoGroup(to, ["u223d33a76a64be357b70a793eb18a1bb"]);has = "OK"
                                 except:has = "NOT"
-                                try:k9.kickoutFromGroup(to, ["u476519fe4ef4a83cfd8d120c0b9c9a38"]);has1 = "OK"
+                                try:k9.kickoutFromGroup(to, ["u223d33a76a64be357b70a793eb18a1bb"]);has1 = "OK"
                                 except:has1 = "NOT"
                                 if has == "OK":sil = "ok"
                                 else:sil = "no"
@@ -5084,9 +5084,9 @@ def bot(op):
                                 else:sil1 = "no"
                                 time.sleep(0.006)
                                 k9.sendReplyMessage(msg_id, to, "STATUS KICK OUT\nKICK : {} \nINVITE : {}".format(sil1,sil))
-                                try:k10.inviteIntoGroup(to, ["u223d33a76a64be357b70a793eb18a1bb"]);has = "OK"
+                                try:k10.inviteIntoGroup(to, ["u4224a71a152d32a58a6252e8a05581b7"]);has = "OK"
                                 except:has = "NOT"
-                                try:k10.kickoutFromGroup(to, ["u223d33a76a64be357b70a793eb18a1bb"]);has1 = "OK"
+                                try:k10.kickoutFromGroup(to, ["u4224a71a152d32a58a6252e8a05581b7"]);has1 = "OK"
                                 except:has1 = "NOT"
                                 if has == "OK":sil = "ok"
                                 else:sil = "no"
@@ -5094,9 +5094,9 @@ def bot(op):
                                 else:sil1 = "no"
                                 time.sleep(0.006)
                                 k10.sendReplyMessage(msg_id, to, "STATUS KICK OUT\nKICK : {} \nINVITE : {}".format(sil1,sil))
-                                try:k11.inviteIntoGroup(to, ["u4224a71a152d32a58a6252e8a05581b7"]);has = "OK"
+                                try:k11.inviteIntoGroup(to, ["u7819a71fecf94e82fc53e639aea7fb95"]);has = "OK"
                                 except:has = "NOT"
-                                try:k11.kickoutFromGroup(to, ["u4224a71a152d32a58a6252e8a05581b7"]);has1 = "OK"
+                                try:k11.kickoutFromGroup(to, ["u7819a71fecf94e82fc53e639aea7fb95"]);has1 = "OK"
                                 except:has1 = "NOT"
                                 if has == "OK":sil = "ok"
                                 else:sil = "no"
@@ -5104,9 +5104,9 @@ def bot(op):
                                 else:sil1 = "no"
                                 time.sleep(0.006)
                                 k11.sendReplyMessage(msg_id, to, "STATUS KICK OUT\nKICK : {} \nINVITE : {}".format(sil1,sil))
-                                try:k12.inviteIntoGroup(to, ["u7819a71fecf94e82fc53e639aea7fb95"]);has = "OK"
+                                try:k12.inviteIntoGroup(to, ["u4465c7e7ae293d930a9746cdd98a5dae"]);has = "OK"
                                 except:has = "NOT"
-                                try:k12.kickoutFromGroup(to, ["u7819a71fecf94e82fc53e639aea7fb95"]);has1 = "OK"
+                                try:k12.kickoutFromGroup(to, ["u4465c7e7ae293d930a9746cdd98a5dae"]);has1 = "OK"
                                 except:has1 = "NOT"
                                 if has == "OK":sil = "ok"
                                 else:sil = "no"
@@ -5114,9 +5114,9 @@ def bot(op):
                                 else:sil1 = "no"
                                 time.sleep(0.006)
                                 k12.sendReplyMessage(msg_id, to, "STATUS KICK OUT\nKICK : {} \nINVITE : {}".format(sil1,sil))
-                                try:k13.inviteIntoGroup(to, ["u4465c7e7ae293d930a9746cdd98a5dae"]);has = "OK"
+                                try:k13.inviteIntoGroup(to, ["u764ca43fe8b3e292c5c43a205bb1b85a"]);has = "OK"
                                 except:has = "NOT"
-                                try:k13.kickoutFromGroup(to, ["u4465c7e7ae293d930a9746cdd98a5dae"]);has1 = "OK"
+                                try:k13.kickoutFromGroup(to, ["u764ca43fe8b3e292c5c43a205bb1b85a"]);has1 = "OK"
                                 except:has1 = "NOT"
                                 if has == "OK":sil = "ok"
                                 else:sil = "no"
@@ -5124,9 +5124,9 @@ def bot(op):
                                 else:sil1 = "no"
                                 time.sleep(0.006)
                                 k13.sendReplyMessage(msg_id, to, "STATUS KICK OUT\nKICK : {} \nINVITE : {}".format(sil1,sil))
-                                try:k14.inviteIntoGroup(to, ["u764ca43fe8b3e292c5c43a205bb1b85a"]);has = "OK"
+                                try:k14.inviteIntoGroup(to, ["ub98cd986d9ab27c6865c2fd79f786b7a"]);has = "OK"
                                 except:has = "NOT"
-                                try:k14.kickoutFromGroup(to, ["u764ca43fe8b3e292c5c43a205bb1b85a"]);has1 = "OK"
+                                try:k14.kickoutFromGroup(to, ["ub98cd986d9ab27c6865c2fd79f786b7a"]);has1 = "OK"
                                 except:has1 = "NOT"
                                 if has == "OK":sil = "ok"
                                 else:sil = "no"
@@ -5134,9 +5134,9 @@ def bot(op):
                                 else:sil1 = "no"
                                 time.sleep(0.006)
                                 k14.sendReplyMessage(msg_id, to,"STATUS KICK OUT\nKICK : {} \nINVITE : {}".format(sil1,sil))
-                                try:k15.inviteIntoGroup(to, ["ub98cd986d9ab27c6865c2fd79f786b7a"]);has = "OK"
+                                try:k15.inviteIntoGroup(to, ["ucde8a34cfbe0f5ee7ff2a1b8a1736cfe"]);has = "OK"
                                 except:has = "NOT"
-                                try:k15.kickoutFromGroup(to, ["ub98cd986d9ab27c6865c2fd79f786b7a"]);has1 = "OK"
+                                try:k15.kickoutFromGroup(to, ["ucde8a34cfbe0f5ee7ff2a1b8a1736cfe"]);has1 = "OK"
                                 except:has1 = "NOT"
                                 if has == "OK":sil = "ok"
                                 else:sil = "no"
@@ -5144,9 +5144,9 @@ def bot(op):
                                 else:sil1 = "no"
                                 time.sleep(0.006)
                                 k15.sendReplyMessage(msg_id, to, "STATUS KICK OUT\nKICK : {} \nINVITE : {}".format(sil1,sil))
-                                try:k16.inviteIntoGroup(to, ["ucde8a34cfbe0f5ee7ff2a1b8a1736cfe"]);has = "OK"
+                                try:k16.inviteIntoGroup(to, ["u82e178c344f9105bf7c4ba99f8ce8fcc"]);has = "OK"
                                 except:has = "NOT"
-                                try:k16.kickoutFromGroup(to, ["ucde8a34cfbe0f5ee7ff2a1b8a1736cfe"]);has1 = "OK"
+                                try:k16.kickoutFromGroup(to, ["u82e178c344f9105bf7c4ba99f8ce8fcc"]);has1 = "OK"
                                 except:has1 = "NOT"
                                 if has == "OK":sil = "ok"
                                 else:sil = "no"
@@ -5154,9 +5154,9 @@ def bot(op):
                                 else:sil1 = "no"
                                 time.sleep(0.006)
                                 k16.sendReplyMessage(msg_id, to, "STATUS KICK OUT\nKICK : {} \nINVITE : {}".format(sil1,sil))
-                                try:k17.inviteIntoGroup(to, ["u82e178c344f9105bf7c4ba99f8ce8fcc"]);has = "OK"
+                                try:k17.inviteIntoGroup(to, ["u9764a50264b228a7e9096715fd399431"]);has = "OK"
                                 except:has = "NOT"
-                                try:k17.kickoutFromGroup(to, ["u82e178c344f9105bf7c4ba99f8ce8fcc"]);has1 = "OK"
+                                try:k17.kickoutFromGroup(to, ["u9764a50264b228a7e9096715fd399431"]);has1 = "OK"
                                 except:has1 = "NOT"
                                 if has == "OK":sil = "ok"
                                 else:sil = "no"
@@ -5164,9 +5164,9 @@ def bot(op):
                                 else:sil1 = "no"
                                 time.sleep(0.006)
                                 k17.sendReplyMessage(msg_id, to, "STATUS KICK OUT\nKICK : {} \nINVITE : {}".format(sil1,sil))
-                                try:k18.inviteIntoGroup(to, ["u9764a50264b228a7e9096715fd399431"]);has = "OK"
+                                try:k18.inviteIntoGroup(to, ["u7f9a266188a54cde9d893c5f2e33fe3a"]);has = "OK"
                                 except:has = "NOT"
-                                try:k18.kickoutFromGroup(to, ["u9764a50264b228a7e9096715fd399431"]);has1 = "OK"
+                                try:k18.kickoutFromGroup(to, ["u7f9a266188a54cde9d893c5f2e33fe3a"]);has1 = "OK"
                                 except:has1 = "NOT"
                                 if has == "OK":sil = "ok"
                                 else:sil = "no"
@@ -5174,9 +5174,9 @@ def bot(op):
                                 else:sil1 = "no"
                                 time.sleep(0.006)
                                 k18.sendReplyMessage(msg_id, to, "STATUS KICK OUT\nKICK : {} \nINVITE : {}".format(sil1,sil))
-                                try:k19.inviteIntoGroup(to, ["u7f9a266188a54cde9d893c5f2e33fe3a"]);has = "OK"
+                                try:k19.inviteIntoGroup(to, ["u27a5e468fdc3c7a2db75017c794e81b1"]);has = "OK"
                                 except:has = "NOT"
-                                try:k19.kickoutFromGroup(to, ["u7f9a266188a54cde9d893c5f2e33fe3a"]);has1 = "OK"
+                                try:k19.kickoutFromGroup(to, ["u27a5e468fdc3c7a2db75017c794e81b1"]);has1 = "OK"
                                 except:has1 = "NOT"
                                 if has == "OK":sil = "ok"
                                 else:sil = "no"
@@ -5184,9 +5184,9 @@ def bot(op):
                                 else:sil1 = "no"
                                 time.sleep(0.006)
                                 k19.sendReplyMessage(msg_id, to, "STATUS KICK OUT\nKICK : {} \nINVITE : {}".format(sil1,sil))
-                                try:k20.inviteIntoGroup(to, ["u27a5e468fdc3c7a2db75017c794e81b1"]);has = "OK"
+                                try:k20.inviteIntoGroup(to, ["u61cf33d2a8de0fe8529788701b154b2c"]);has = "OK"
                                 except:has = "NOT"
-                                try:k20.kickoutFromGroup(to, ["u27a5e468fdc3c7a2db75017c794e81b1"]);has1 = "OK"
+                                try:k20.kickoutFromGroup(to, ["u61cf33d2a8de0fe8529788701b154b2c"]);has1 = "OK"
                                 except:has1 = "NOT"
                                 if has == "OK":sil = "ok"
                                 else:sil = "no"
